@@ -1,0 +1,15 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(7,1fr);
+    text-align: center;
+    
+    height: 100%;
+}
+html{
+    
+    
+    height: 100%;
+    background-color: rgb(107, 86, 149);
+}
+

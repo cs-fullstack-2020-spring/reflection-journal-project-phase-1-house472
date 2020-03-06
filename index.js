@@ -36,6 +36,10 @@ const journalEntriesArray = [
         confidence_level: journal_entry_capture.confidence_level
     }
     ];
+    function collect_data(){
+        creation_date_el = document.querySelector("#creation_date").value
+    }
+    console.log(creation_date_el.value)
     journalEntriesArray.push(journal_entry_capture)
 console.log(journalEntriesArray[0])
 
