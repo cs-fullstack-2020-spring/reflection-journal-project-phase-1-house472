@@ -1,4 +1,5 @@
 # Reflections Journal Project - Phase 1 (HTML/CSS/JavaScript)
+#### Looks like you were making pretty good progress but you're missing some key functionality. Check out my comments in your JS file. Be sure to check out my answer in the gist too if you want an example of my solution. 
 > Please jump to the bottom of this README file for general information and project guidelines
 
 ## Phase 1: Design and Layout, JavaScript Reflection Objects
